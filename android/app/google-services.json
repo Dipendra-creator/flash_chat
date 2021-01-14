@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208275989468",
+    "project_id": "flash-chat-456d1",
+    "storage_bucket": "flash-chat-456d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208275989468:android:e4b7bdb59694e2e8af6519",
+        "android_client_info": {
+          "package_name": "com.dipendra.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208275989468-go30q97u19t397q9gjgo2jhjsljkf9sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2YK2g_t7EboO20hi_sLi6tsdMVEjwY1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208275989468-go30q97u19t397q9gjgo2jhjsljkf9sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
